@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ashvin 👋
 
-<!--
-**ashvinsunga/ashvinsunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional with experience in **IT support, systems administration, and infrastructure**. I'm currently expanding my skills into **cloud computing** and building hands-on projects to strengthen my knowledge.
 
-Here are some ideas to get you started:
+### ☁️ Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Cloud Computing
+* Microsoft Azure
+* Cloud Infrastructure & Networking
+* Identity & Access Management
+* Cloud Security
+
+### 🛠️ IT Skills
+
+* Windows & Microsoft 365
+* Active Directory / Entra ID
+* Intune & Endpoint Management
+* PowerShell
+* IT Support & Systems Administration
+* Networking & Troubleshooting
+
+### 🎯 Goal
+
+To build practical cloud skills and transition into a **Cloud / Systems Engineer** role.
+
+Thanks for visiting my profile!
