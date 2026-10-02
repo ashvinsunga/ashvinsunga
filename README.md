@@ -1,26 +1,29 @@
-# Hi, I'm Ashvin 👋
+# Hi, I'm Ashvin Sunga 👋
 
-I'm an IT professional with experience in **IT support, systems administration, and infrastructure**. I'm currently expanding my skills into **cloud computing** and building hands-on projects to strengthen my knowledge.
+I'm an IT professional with experience in **systems administration, application support, endpoint management, and Microsoft technologies**.
+
+I'm currently expanding my skills into **Cloud Computing**, with a focus on understanding how cloud platforms are used in real-world IT environments.
+
+### 🛠️ Background
+
+* IT Support & Systems Administration
+* Microsoft 365, Entra ID & Intune
+* Endpoint & User Management
+* Application & Technical Support
+* Troubleshooting & Incident Resolution
+* IT Infrastructure & Service Desk Operations
 
 ### ☁️ Currently Learning
 
-* Cloud Computing
-* Microsoft Azure
-* Cloud Infrastructure & Networking
-* Identity & Access Management
-* Cloud Security
-
-### 🛠️ IT Skills
-
-* Windows & Microsoft 365
-* Active Directory / Entra ID
-* Intune & Endpoint Management
-* PowerShell
-* IT Support & Systems Administration
-* Networking & Troubleshooting
+* Cloud fundamentals
+* Compute, storage & networking
+* Identity & access management
+* Cloud security
+* Virtual machines & infrastructure
+* Cloud administration and monitoring
 
 ### 🎯 Goal
 
-To build practical cloud skills and transition into a **Cloud / Systems Engineer** role.
+My goal is to build on my existing IT infrastructure and support experience and transition into a **Cloud / Systems / Infrastructure role**.
 
-Thanks for visiting my profile!
+I'm using this repository to document my **cloud learning journey, hands-on labs, projects, notes, and certifications**.
